@@ -3,10 +3,10 @@
 # Build functions for Claude Desktop AppImage creation
 
 # Claude Desktop version (official version from Anthropic)
-CLAUDE_VERSION="0.9.3"
+CLAUDE_VERSION="0.11.6"
 
 # AppImage version (independent of Claude version for multiple releases)
-APPIMAGE_VERSION="1.0.4"
+APPIMAGE_VERSION="1.0.5"
 
 # Electron version to bundle
 ELECTRON_VERSION="36.3.2"
